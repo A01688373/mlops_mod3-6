@@ -1,7 +1,7 @@
 # Deliverable: Pre-Commits
 
-Instructor: Carlos Mejia
-Student: Gabriela Sánchez
+### Instructor: Carlos Mejia
+### Student: Gabriela Sánchez
 
 Pre-Commits are a software development practice that consists of performing a series of automatic checks before committing changes to a version control repository.
 
